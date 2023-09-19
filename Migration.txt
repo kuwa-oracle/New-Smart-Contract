@@ -1,4 +1,4 @@
-Kuwa Oracle has migrated to a new smart contract pn BSC: KuwaOracleV2
+Kuwa Oracle has migrated to a new smart contract on BSC: KuwaOracleV2
 Smart contract: 0x265969c618E3ea53B97261c8106dF08BCE8BEC8F
 Network: BSC
 Decimals: 18
