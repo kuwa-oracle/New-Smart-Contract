@@ -1,0 +1,8 @@
+Kuwa Oracle has migrated to a new smart contract pn BSC: KuwaOracleV2
+Smart contract: 0x265969c618E3ea53B97261c8106dF08BCE8BEC8F
+Network: BSC
+Decimals: 18
+Ticker: KUOR2
+Total Supply: 500,000,000 KUOR2
+
+Any remaining KUOR can be swapped at 1:1 to KUOR2 by sending to the deployer address: 0x30fa83734c7544Fe31950ca975D42d59C6C0C59d (BSC)
